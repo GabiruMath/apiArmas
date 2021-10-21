@@ -1,4 +1,6 @@
+gabiruTestes\AulaTroll\cors\CorsConfig.class
 gabiruTestes\AulaTroll\repository\ArmasRepository.class
+gabiruTestes\AulaTroll\cors\CorsFilter.class
 gabiruTestes\AulaTroll\repository\ArmasRepositoryIMPL.class
 gabiruTestes\AulaTroll\domain\Armas.class
 gabiruTestes\AulaTroll\services\ArmasService.class
